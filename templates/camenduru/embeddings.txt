@@ -1,2 +1,4 @@
 https://huggingface.co/embed/negative
 https://huggingface.co/embed/lora
+https://civitai.com/api/download/models/66043
+https://civitai.com/api/download/models/60938
