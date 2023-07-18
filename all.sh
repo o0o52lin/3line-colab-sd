@@ -270,7 +270,7 @@ function run {
 }
 
 BASEPATH=/content/drive/MyDrive/SD
-TEMPLATE_LOCATION="https://github.com/AI-skimos/3line-colab-sd"
+TEMPLATE_LOCATION="https://github.com/o0o52lin/3line-colab-sd"
 TEMPLATE_NAME="camenduru"
 while [[ $# -gt 0 ]]
 do
