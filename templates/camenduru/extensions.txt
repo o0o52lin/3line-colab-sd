@@ -1,3 +1,5 @@
+https://github.com/Physton/sd-webui-prompt-all-in-one
+https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 https://github.com/deforum-art/deforum-for-automatic1111-webui
 https://github.com/camenduru/stable-diffusion-webui-images-browser
 https://github.com/camenduru/stable-diffusion-webui-huggingface
@@ -16,5 +18,4 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui-rembg
 https://github.com/ashen-sensored/stable-diffusion-webui-two-shot
 https://github.com/camenduru/sd_webui_stealth_pnginfo
 https://github.com/thomasasfk/sd-webui-aspect-ratio-helper
-https://github.com/dtlnor/stable-diffusion-webui-localization-zh_CN
 https://github.com/AI-skimos/sd-webui-prompt-sr-range
